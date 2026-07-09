@@ -10,9 +10,10 @@ Chicken Dataset - https://universe.roboflow.com/liangyingying-ugu8c/chicken-coun
 
 <img width="1920" height="1920" alt="train_batch1" src="https://github.com/user-attachments/assets/b59e4f6a-aaa4-4599-8b5e-344b3fe6da18" />
 
-*NOTE* 
+*NOTE* : 
 Code and files have been ommitted from the time being as development continues and can be shared on request
 
+project structure listed below
 ---
 
 ## 📖 Overview

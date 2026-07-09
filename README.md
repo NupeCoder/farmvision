@@ -2,7 +2,16 @@
 
 An AI-powered computer vision project built using **YOLO** for detecting and identifying farm animals from images. FarmVision is designed to assist with livestock monitoring by automatically recognising animals in real-time.
 
+Chicken Dataset - https://universe.roboflow.com/liangyingying-ugu8c/chicken-counting-wifqp-b56zo/dataset/1
+
 > **Current Model:** Chicken Detection 🐓
+
+<img width="1920" height="1100" alt="val_batch0_pred" src="https://github.com/user-attachments/assets/2e82f022-3e97-4a54-a9ea-406cdde43f1b" />
+
+<img width="1920" height="1920" alt="train_batch1" src="https://github.com/user-attachments/assets/b59e4f6a-aaa4-4599-8b5e-344b3fe6da18" />
+
+*NOTE* 
+Code and files have been ommitted from the time being as development continues and can be shared on request
 
 ---
 
@@ -61,24 +70,6 @@ farmvision/
 
 ## 📊 Model Performance
 
-The model has been trained to recognise **chickens** with strong detection performance.
-
-### Training Metrics
-
-Add your training results here:
-
-```text
-images/train_results.png
-```
-
-```markdown
-![Training Results](images/train_results.png)
-```
-
----
-
-## 📊 Model Performance
-
 The current YOLO model has been trained to detect **chickens** and demonstrates consistent improvements throughout training.
 
 ### Final Performance Metrics
@@ -91,22 +82,6 @@ The current YOLO model has been trained to detect **chickens** and demonstrates 
 | mAP@50-95 | **45.0%** |
 
 These metrics indicate that the model can reliably identify chickens in images while maintaining a strong balance between precision and recall.
-
----
-
-## 🖼️ Example Predictions
-
-### Chicken Detection
-
-```markdown
-![Prediction 1](images/prediction1.jpg)
-
-![Prediction 2](images/prediction2.jpg)
-
-![Prediction 3](images/prediction3.jpg)
-```
-
-These images demonstrate successful detection of chickens using the trained YOLO model.
 
 ---
 
@@ -128,20 +103,6 @@ These images demonstrate successful detection of chickens using the trained YOLO
 * Build a scalable livestock detection system
 * Explore real-world agricultural AI applications
 * Create a reusable model that can expand to additional farm animals
-
----
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-Feel free to fork the repository, open an issue, or submit a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ---
 
